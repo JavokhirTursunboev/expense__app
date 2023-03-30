@@ -6,7 +6,7 @@ function App() {
     {
       id: "e1",
       title: "Toilet Paper",
-      amount: 94.12,
+      amount: 984.12,
       date: new Date(2020, 7, 14),
     },
     { 
@@ -24,7 +24,7 @@ function App() {
     {
       id: "e4",
       title: "New Desk (Wooden)",
-      amount: 450,
+      amount: 450.39,
       date: new Date(2021, 5, 12),
     },
   ];
